@@ -1,0 +1,10 @@
+resize_algorithm = none
+hotspot_x = 0.46
+hotspot_y = 0.46
+
+define_size = 0, crosshair.svg
+
+define_override = cross
+define_override = cross_reverse
+define_override = diamond_cross
+define_override = tcross

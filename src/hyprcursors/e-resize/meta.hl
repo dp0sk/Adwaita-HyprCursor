@@ -1,0 +1,7 @@
+resize_algorithm = none
+hotspot_x = 0.79
+hotspot_y = 0.54
+
+define_size = 0, e-resize.svg
+
+define_override = right_side
